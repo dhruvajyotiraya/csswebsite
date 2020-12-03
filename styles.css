@@ -1,0 +1,113 @@
+
+
+
+body  {margin: 0; text-align: center; font-family: futura, sans-serif;}
+h1 {margin: 0 auto 0 auto;font-size: 45px; font-family: 'Sansita Swashed', cursive;}
+
+
+.top-container {background-color: #000856; text-align: center;
+background-image: url("STARS 2.png");}
+
+ .web {font-weight: bold; text-decoration: underline;}
+.dhruva {text-decoration: underline;}
+
+.top-elements {border-color: black; width: 100%; margin: 0 auto 0 auto; position: relative; color: white; background-color: rgba(0, 0, 0, 0.2);
+margin-top: 0;}
+.top-text {padding-top: 100px; font-size:700%; color: #FFFEAD}
+.second-text {font-size: 1.5rem; position: relative; font-weight: normal; line-height: 150%; font-size: 250%;}
+.cloud1 {position: absolute; right: 120px; padding-top: 30px; width: 16%;}
+.cloud2 {position: absolute; left: 12%; padding-top: 0px; width: 16%;}
+.mountain {padding-top: 160px; padding-bottom: 0; margin: 0; width: 100%; position: relative;}
+.myface {width: 50%;}
+.skill-1 {width: 25%; float: left; margin-right: 30px;}
+.skill-2 {width: 25%; float: right; margin-left: 30px;}
+.hello {color: black; font-size: 400%; font-family: 'Sansita Swashed', cursive; margin: 4%;}
+.footer-link {color: #11999E;}
+.middle-container {background-image: url("SKY.png");
+background-size: cover; background-repeat:no-repeat; height: 150%;}
+.first-para {position: relative; bottom: 15px; font-size: 120%; text-align: center; line-height: 1.5; padding-left: 10px; padding-right: 10px;
+margin-bottom: 0;
+
+}
+.evening-container {background-color: orange;}
+.evening-container-2 {background-color: orange;}
+.myface {position: relative; top: 15px;}
+.middle-child {background-color: rgba(255, 255, 255, 0.6); border-style: solid; border-width: 2px; width: 50%; margin-left: auto; margin-right: auto;
+
+position: relative; top: 7%; height: 86%;
+
+}
+
+.skill-row {width: 50%; margin-left: auto; margin-right: auto; margin-bottom: 100px; text-align: left; line-height: 2;}
+.skills-h2 {font-size: 280%; margin-bottom: 6%; color: #66BFBF; margin: 0;
+
+  padding-top: 30px; padding-bottom: 40px;
+
+
+}
+h3 {color: #11999E;}
+
+
+.line-1 {border-style: dotted none none none; width: 4%; border-width: 7px; margin-top: 10px; margin-bottom: 100px;
+
+border-color: #bcbcbc;}
+
+.get-in-touch {font-size: 280%; color: #66BFBF;}
+
+.last-line {width: 50%; margin: 30px auto 30px auto; line-height: 1.5;}
+
+.btn {
+   background: #08D3DB;
+   background-image: -webkit-linear-gradient(top, #08D3DB, #25A9A9);
+   background-image: -moz-linear-gradient(top, #08D3DB, #25A9A9);
+   background-image: -ms-linear-gradient(top, #08D3DB, #25A9A9);
+   background-image: -o-linear-gradient(top, #08D3DB, #25A9A9);
+   background-image: -webkit-gradient(to bottom, #08D3DB, #25A9A9);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 11px;
+   border-color-hover: ;
+   border-style-hover: solid;
+   border-width-hover: 1;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #18F6FF;
+   background-image: -webkit-linear-gradient(top, #18F6FF, #14EBF4);
+   background-image: -moz-linear-gradient(top, #18F6FF, #14EBF4);
+   background-image: -ms-linear-gradient(top, #18F6FF, #14EBF4);
+   background-image: -o-linear-gradient(top, #18F6FF, #14EBF4);
+   background-image: -webkit-gradient(to bottom, #18F6FF, #14EBF4);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+
+
+.bottom-container {background-color: #66BFBF; height: 150px;}
+.last-design {margin-top: 70px; font-size: 20px;}
+.footer-link {margin: 50px; position: relative; top: 30px; font-size: 150%; text-decoration: none;}
+
+.footer-link:hover {color: white;}
+
+.copyright-text {position: relative; color: white; font-size: 18px; top: 50px; margin-bottom: 0;}
+
+
+
+
+.background-white {background-image: url("white-walls.png");
+
+background-size: cover; background-repeat: repeat;
+
+}
